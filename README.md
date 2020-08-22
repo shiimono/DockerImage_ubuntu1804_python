@@ -28,7 +28,7 @@ githubから本イメージをダウンロードして使用する方法を記�
 * 空のプロジェクトファイルをPC内のドキュメント直下（好きな場所でOK）に作成する
 
 ### 4.GitHubからDocker Image一式を開発フォルダに置く
-* 本ページ（https://github.com/shiimono/DockerImage_ubuntu1804_python）からコード一式をダウンロードし、中身を開発フォルダに置く
+* 本ページ（ https://github.com/shiimono/DockerImage_ubuntu1804_python ）からコード一式をダウンロードし、中身を開発フォルダに置く
 
 ### 5.VSCodeで開発フォルダを開く
 
