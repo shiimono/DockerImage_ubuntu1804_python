@@ -4,10 +4,6 @@
 * ローカルVSCode：ローカルPCで普通に開いたVSCode
 * リモートVSCode：ローカルPC内で構築したコンテナに接続したVSCode
 
-docker hubから本イメージをpullしてリモートVSCodeで開発できなかったため、
-githubから本イメージをダウンロードして使用する方法を記載。
-
-
 ## 準備
 ### 1.PCへ必要なソフトを導入
 * VSCode
